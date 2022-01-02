@@ -4,7 +4,7 @@ Welcome to my Github space!
 
 Here's where to find me and what I'm working on:
 
-- Currently working on reimplementing [http://kilic.net](kilic.net) using Strapi CMS
+- Currently working on reimplementing [http://kilic.net](kilic.net) using [Strapi CMS](https://strapi.io)
 - Posting my Wordle score, random text, and happenings at [twitter.com/serdar](twitter.com/serdar)
 - Some snapshots posted to [instagram.com/serdarkilic](instagram.com/serdarkilic) but this will eventually be incorporated into my main site.
 
